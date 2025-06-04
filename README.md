@@ -1,4 +1,4 @@
-### Rustlings   
+### Rustlings 🦀  
 
 <br />
 
