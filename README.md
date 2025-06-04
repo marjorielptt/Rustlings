@@ -1,15 +1,17 @@
-### Rustlings
+### Rustlings   
 
+<br />
 
-Rustlings est un ensemble d'exercices en Rust de niveau débutant à intermédiaire.
+Rustlings is a set of Rust exercices for beginner to intermediate levels.   
 
-Les énoncés sont disponibles ici : https://corrode.dev/blog/rust-learning-resources-2025/.
+The statements are available on the following page : https://corrode.dev/blog/rust-learning-resources-2025/.
 
-Voici ma proposition de correction pour ces exercices.
+Here is my correction proposal for these exercices.
 
-N'hésitez pas à me contacter pour échanger à propos de mon code.
+Don't hesitate contacting me to talk about my code.   
 
+<br />
 
-**Auteure :** Marjorie Lapointe  
-**Langage :** Rust   
-**Dernière version :** Juin 2025
+**Author :** Marjorie Lapointe  
+**Language :** Rust   
+**Last version :** June 2025
