@@ -12,3 +12,4 @@ N'hésitez pas à me contacter pour échanger à propos de mon code.
 
 **Auteure :** Marjorie Lapointe  
 **Langage :** Rust
+**Dernière version :** Juin 2025
