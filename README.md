@@ -14,4 +14,5 @@ Don't hesitate contacting me to talk about my code.
 
 **Author :** Marjorie Lapointe  
 **Language :** Rust   
-**Last version :** June 2025
+**Last version :** June 2025  
+**Rustlings version :** 6.4.0
