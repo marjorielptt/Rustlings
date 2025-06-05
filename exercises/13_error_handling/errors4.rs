@@ -10,6 +10,14 @@ struct PositiveNonzeroInteger(u64);
 impl PositiveNonzeroInteger {
     fn new(value: i64) -> Result<Self, CreationError> {
         // TODO: This function shouldn't always return an `Ok`.
+        let res = (value > 0)?
+
+        if value > 0 {
+            println!("{value} > 0");
+        }
+        else {
+            println("{value} n'est pas strictement supérieure à 0.")
+        }
         Ok(Self(value as u64))
     }
 }
