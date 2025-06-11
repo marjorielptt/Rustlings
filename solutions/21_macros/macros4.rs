@@ -1,4 +1,4 @@
-// TODO: Fix the compiler error by adding one or two characters.
+// Added semicolons to separate the macro arms.
 #[rustfmt::skip]
 macro_rules! my_macro {
     () => {
